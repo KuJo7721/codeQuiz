@@ -1,1 +1,2 @@
 # codeQuiz
+This project was very difficult for me but I believe I got the majorith of the points covered. I used an html template from bootsrap to get started. From there i used a combonation bootstrap (for the buttons and the layout) Built the countdown with a ton of research using JS. Was able to copy and paste the True False buttons and change to fit. I know I need to work on my read-mes, Im trying, Im getting caught back up I believe. I know its pretty plain but i wanted to get something sumbitted. 
